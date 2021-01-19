@@ -16,4 +16,4 @@ This program is menu-driven. User will be presented with available options corre
 + Delete Task
 
 Support a text-based user interface
-Git stats
+
